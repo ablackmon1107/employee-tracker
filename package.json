@@ -1,0 +1,19 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "command line application to access employee database",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ablackmon1107/employee-tracker.git"
+  },
+  "author": "Aireeal Blackmon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ablackmon1107/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/ablackmon1107/employee-tracker#readme"
+}
